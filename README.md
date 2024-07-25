@@ -1,8 +1,4 @@
-<p align="center">
-
 <img src="https://github.com/user-attachments/assets/5ee54c39-d4bf-467b-a3be-3636ca7bf59e" alt=”my banner”>
-
-</p>
 
 <h3>Hello, I am a fullstack developer with a keen interest in the JavaScript and TypeScript ecosystem.</h3>
 
