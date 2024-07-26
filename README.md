@@ -1,4 +1,4 @@
-![Putra (1)](https://github.com/user-attachments/assets/f670ef56-fa22-4366-a1e4-17a10252e205)
+![Putra (1) (1)](https://github.com/user-attachments/assets/f8f03631-db42-4c87-ac44-e308d544a86b)
 
 <h3>Hello, I am a fullstack developer with a keen interest in the JavaScript and TypeScript ecosystem.</h3>
 
